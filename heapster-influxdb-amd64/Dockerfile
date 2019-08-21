@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/heapster-amd64:v1.5.4
+FROM k8s.gcr.io/heapster-influxdb-amd64:v1.5.2
 MAINTAINER mritd <mritd@mritd.me>
